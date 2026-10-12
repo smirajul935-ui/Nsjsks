@@ -1,0 +1,16 @@
+{
+  "title": "Device Activation",
+  "subtitle": "Enter your device activation key to unlock full access and continue.",
+  "keyLabel": "Device Activation Key",
+  "hint": "Enter your key here...",
+  "infoText": "Your key is a unique code provided by the admin. Make sure you enter it correctly.",
+  "notice": "",
+  "telegram": "https://t.me/YourChannel",
+  "admin": "https://t.me/YourUsername",
+  "brand": "SagarTech99",
+  "brandTag": "Better Tools • Better Experience",
+  "allowDeviceKey": true,
+  "keys": [
+    "SGR-1A2B-3C4D-5E6F-7A8B"
+  ]
+}
